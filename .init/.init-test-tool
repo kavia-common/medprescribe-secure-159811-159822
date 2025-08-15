@@ -1,0 +1,4 @@
+{
+    "command": "npm run build",
+    "working_directory": "/home/kavia/workspace/code-generation/medprescribe-secure-159811-159822/prescription_frontend"
+}
